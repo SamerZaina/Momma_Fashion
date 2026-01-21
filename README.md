@@ -19,7 +19,7 @@ The app allows users to browse and purchase fashion products with a clean and re
 ## Screenshots
 
 ### Home Screen
-![Home Screen]()
+![Home Screen](Home Screen.jpeg)
 
 ### Product List
 ![Product List](screenshots/products.png)
