@@ -1,16 +1,52 @@
-# momma_fashion
+# Momma Fashion
 
-A new Flutter project.
+**Momma Fashion** is a cross-platform e-commerce mobile app built using **Flutter**.  
+The app allows users to browse and purchase fashion products with a clean and responsive user interface.  
+
+---
+
+## Features
+
+- Browse products by category and search/filter products
+- User authentication (Sign up / Login)
+- Shopping cart and checkout functionality
+- Real-time backend integration using Firebase
+- Responsive UI with modern animations
+- Supports both Android and iOS
+
+---
+
+## Screenshots
+
+### Home Screen
+![Home Screen]()
+
+### Product List
+![Product List](screenshots/products.png)
+
+### Cart
+![Cart](screenshots/cart.png)
+
+### Checkout
+![Checkout](screenshots/checkout.png)
+
+---
+
+## Tech Stack
+
+- **Flutter** for cross-platform mobile development
+- **Dart** as programming language
+- **Firebase** for backend, authentication, and real-time database
+- **Provider** for state management
+- **Material Design** for UI components
+
+---
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project locally:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Make sure you have **Flutter** installed. [Flutter installation guide](https://docs.flutter.dev/get-started/install)
+2. Clone the repository:
+   ```bash
+   git clone https://github.com/SamerZaina/Momma_Fashion.git
